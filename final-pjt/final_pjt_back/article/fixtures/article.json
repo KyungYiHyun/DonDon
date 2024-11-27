@@ -1,0 +1,123 @@
+[
+{
+    "model": "article.article",
+    "pk": 1,
+    "fields": {
+        "user": 20001,
+        "title": "적금 vs 예금 어떤 것이 유리할까요?",
+        "content": "3000만원 정도 모았는데 어떤 상품이 좋을지 고민입니다.",
+        "created_at": "2024-11-26T16:32:52.407Z",
+        "updated_at": "2024-11-26T16:32:52.407Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 5,
+    "fields": {
+        "user": 20002,
+        "title": "연봉 4000만원, 적금 얼마나 들어야 할까요?",
+        "content": "적정 저축 금액 조언 부탁드립니다.",
+        "created_at": "2024-11-26T16:39:59.182Z",
+        "updated_at": "2024-11-26T16:39:59.182Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 6,
+    "fields": {
+        "user": 20003,
+        "title": "신혼부부 재테크 상담해주세요",
+        "content": "맞벌이 신혼부부 재테크 전략이 궁금합니다.",
+        "created_at": "2024-11-26T16:40:59.263Z",
+        "updated_at": "2024-11-26T16:40:59.263Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 7,
+    "fields": {
+        "user": 20004,
+        "title": "목돈 굴리기 조언 부탁드립니다",
+        "content": "퇴직금 5000만원 운용 방법 추천해주세요.",
+        "created_at": "2024-11-26T16:42:01.453Z",
+        "updated_at": "2024-11-26T16:42:01.453Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 8,
+    "fields": {
+        "user": 20005,
+        "title": "학자금 대출 갚으면서 저축하기",
+        "content": "대출이자와 저축 비율 조언 부탁드립니다.",
+        "created_at": "2024-11-26T16:43:07.942Z",
+        "updated_at": "2024-11-26T16:43:07.942Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 9,
+    "fields": {
+        "user": 20006,
+        "title": "연말정산 준비, 금융상품 추천",
+        "content": "절세 효과 좋은 금융상품 추천해주세요.",
+        "created_at": "2024-11-26T16:44:09.357Z",
+        "updated_at": "2024-11-26T16:44:09.357Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 10,
+    "fields": {
+        "user": 20007,
+        "title": "주택청약 준비하시는 분들?",
+        "content": "청약저축 관련 정보 공유해요.",
+        "created_at": "2024-11-26T16:45:18.469Z",
+        "updated_at": "2024-11-26T16:45:18.469Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 11,
+    "fields": {
+        "user": 20008,
+        "title": "전세자금 대출 vs 청년전세대출",
+        "content": "어떤 상품이 더 유리한가요?",
+        "created_at": "2024-11-26T16:46:26.061Z",
+        "updated_at": "2024-11-26T16:46:26.061Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 12,
+    "fields": {
+        "user": 20009,
+        "title": "이번에 나온 특판 상품 어떠신가요?",
+        "content": "신한은행 특판 상품 가입하신 분 후기 부탁드려요.",
+        "created_at": "2024-11-26T16:47:32.197Z",
+        "updated_at": "2024-11-26T16:47:32.197Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 13,
+    "fields": {
+        "user": 20010,
+        "title": "비상금은 얼마정도 준비하시나요?",
+        "content": "적정 비상금 규모와 관리 방법이 궁금합니다.",
+        "created_at": "2024-11-26T16:48:41.708Z",
+        "updated_at": "2024-11-26T16:48:41.708Z"
+    }
+},
+{
+    "model": "article.article",
+    "pk": 14,
+    "fields": {
+        "user": 20011,
+        "title": "은행 영업시간 외 대출 상담받는 방법?",
+        "content": "직장인이라 은행 방문이 어려운데 조언 부탁드려요.",
+        "created_at": "2024-11-26T16:49:40.069Z",
+        "updated_at": "2024-11-26T16:49:40.069Z"
+    }
+}
+]

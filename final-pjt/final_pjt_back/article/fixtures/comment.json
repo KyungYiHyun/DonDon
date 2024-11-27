@@ -1,0 +1,112 @@
+[
+{
+    "model": "article.comment",
+    "pk": 1,
+    "fields": {
+        "user": 20011,
+        "article": 7,
+        "content": "저는 급여 50% 의무저축하고 있어요",
+        "created_at": "2024-11-26T16:51:46.534Z",
+        "updated_at": "2024-11-26T16:51:46.534Z"
+    }
+},
+{
+    "model": "article.comment",
+    "pk": 2,
+    "fields": {
+        "user": 20001,
+        "article": 5,
+        "content": "월 소득의 30%는 저축하시는게 좋을 것 같아요",
+        "created_at": "2024-11-26T16:52:41.949Z",
+        "updated_at": "2024-11-26T16:52:41.949Z"
+    }
+},
+{
+    "model": "article.comment",
+    "pk": 3,
+    "fields": {
+        "user": 20001,
+        "article": 12,
+        "content": "저는 만족하고있어요!!",
+        "created_at": "2024-11-26T16:52:58.677Z",
+        "updated_at": "2024-11-26T16:52:58.677Z"
+    }
+},
+{
+    "model": "article.comment",
+    "pk": 4,
+    "fields": {
+        "user": 20001,
+        "article": 10,
+        "content": "어떤 상품 찾고계세요??",
+        "created_at": "2024-11-26T16:53:19.092Z",
+        "updated_at": "2024-11-26T16:53:19.092Z"
+    }
+},
+{
+    "model": "article.comment",
+    "pk": 5,
+    "fields": {
+        "user": 20001,
+        "article": 13,
+        "content": "월급의 30% 정도는 해야된다 생각",
+        "created_at": "2024-11-26T16:53:36.324Z",
+        "updated_at": "2024-11-26T16:53:36.324Z"
+    }
+},
+{
+    "model": "article.comment",
+    "pk": 6,
+    "fields": {
+        "user": 20004,
+        "article": 9,
+        "content": "우리은행 상품이 좋더라구요.",
+        "created_at": "2024-11-26T16:54:10.765Z",
+        "updated_at": "2024-11-26T16:54:10.765Z"
+    }
+},
+{
+    "model": "article.comment",
+    "pk": 7,
+    "fields": {
+        "user": 20004,
+        "article": 7,
+        "content": "고정지출 먼저 계산하고 남은 금액의 절반 정도는 모으세요",
+        "created_at": "2024-11-26T16:54:41.605Z",
+        "updated_at": "2024-11-26T16:54:41.605Z"
+    }
+},
+{
+    "model": "article.comment",
+    "pk": 9,
+    "fields": {
+        "user": 20005,
+        "article": 5,
+        "content": "주거래 은행 적금하고 다른 은행 특판상품도 알아보세요",
+        "created_at": "2024-11-26T16:57:07.356Z",
+        "updated_at": "2024-11-26T16:57:07.356Z"
+    }
+},
+{
+    "model": "article.comment",
+    "pk": 10,
+    "fields": {
+        "user": 20005,
+        "article": 7,
+        "content": "요즘은 단기 고금리 예금도 많으니 찾아보세요",
+        "created_at": "2024-11-26T16:57:42.750Z",
+        "updated_at": "2024-11-26T16:57:42.750Z"
+    }
+},
+{
+    "model": "article.comment",
+    "pk": 11,
+    "fields": {
+        "user": 20008,
+        "article": 7,
+        "content": "급여통장이랑 생활비통장 분리하는게 도움 많이 됐어요!",
+        "created_at": "2024-11-26T17:00:10.157Z",
+        "updated_at": "2024-11-26T17:00:10.157Z"
+    }
+}
+]
